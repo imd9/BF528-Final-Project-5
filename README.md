@@ -15,7 +15,7 @@ Italo Duran: Programmer & Biologist (duran01@bu.edu)
 # Programmer
 The programmer.R script normalizes the data by using the RMA method to compute standard quality control metrics on the normalized data and visualize the distribution of samples using Principal Component Analysis (PCA).
 
-# Analyst
+# Biologist
 The biologist seeks to understand the biological significance of the different gene expression profiles for each tumor subtype using gene set enrichment analysis. And reproduces an analysis using KEGG gene sets and the differential expression results from 5.6 or the given sample data. 
 
 
