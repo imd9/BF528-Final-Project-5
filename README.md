@@ -1,4 +1,4 @@
-# BF528-Project-5
+# BF528-Project-5-Individual
 This is the last project for BF528 as an individual final 
 
 # Project Description
