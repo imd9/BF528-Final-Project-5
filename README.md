@@ -12,7 +12,7 @@ Marisa et al. Gene Expression Classification of Colon Cancer into Molecular Subt
 # Contributors
 Italo Duran: Programmer & Biologist (duran01@bu.edu)
 
-# Programmer
+# Programmer:
 The programmer.R script normalizes the data by using the RMA method to compute standard quality control metrics on the normalized data and visualize the distribution of samples using Principal Component Analysis (PCA).
 
 # Biologist
