@@ -6,13 +6,13 @@ Colorectal cancer (CRC) is the third most common type of cancer and the fourth m
 
 This analysis focuses only on reproducing the programmer and biologist results from, the comparison of the C3 and C4 tumor subtypes. A short analysis of microarray dataset in Marisa, et. al. https://pubmed.ncbi.nlm.nih.gov/23700391/
 
-# Referenece:
+# Referenece
 Marisa et al. Gene Expression Classification of Colon Cancer into Molecular Subtypes: Characterization, Validation, and Prognostic Value. PLoS Medicine, May 2013. PMID: 23700391
 
 # Contributors
 Italo Duran: Programmer & Biologist (duran01@bu.edu)
 
-# Programmer:
+# Programmer
 The programmer.R script normalizes the data by using the RMA method to compute standard quality control metrics on the normalized data and visualize the distribution of samples using Principal Component Analysis (PCA).
 
 # Biologist
