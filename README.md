@@ -20,7 +20,7 @@ Along with the RLE, NUSE Histograms and the PCA scatter plot.
 # Biologist
 The biologist seeks to understand the biological significance of the different gene expression profiles for each tumor subtype using gene set enrichment analysis. And reproduces an analysis using KEGG gene sets and the differential expression results from 5.6 or the given sample data.
 This folder contains the biologist deliverables:<br>
-The tables for the top 10 up- and down-regulated probesets with gene symbol, t-statistic, nominal p-value, and adjusted p-value columns.<br>
+The tables for the top 10 up- and down-regulated probesets.<br>
 A description table of the gene set databases used, specifying the number of gene sets considered in each.<br>
 A table containing the top 3 enriched gene sets for each geneset type.
 
